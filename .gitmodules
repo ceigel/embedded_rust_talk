@@ -1,0 +1,15 @@
+[submodule "extra/stm32-rs"]
+	path = extra/stm32-rs
+	url = https://github.com/stm32-rs/stm32-rs.git
+[submodule "extra/stm32f3-discovery"]
+	path = extra/stm32f3-discovery
+	url = https://github.com/rubberduck203/stm32f3-discovery.git
+[submodule "extra/stm32f3xx-hal"]
+	path = extra/stm32f3xx-hal
+	url = https://github.com/stm32-rs/stm32f3xx-hal.git
+[submodule "extra/rfid-audio"]
+	path = extra/rfid-audio
+	url = https://github.com/ceigel/rfid-audio
+[submodule "extra/rfid-audio-raspberry"]
+	path = extra/rfid-audio-raspberry
+	url = https://github.com/ceigel/rfid-audio-raspberry
