@@ -1,0 +1,18 @@
+[package]
+authors = ["Cristian Eigel <cristian.eigel@esrlabs.com>"]
+edition = "2018"
+readme = "README.md"
+name = "p003-stm32-pac-led"
+version = "0.1.0"
+
+[dependencies]
+cortex-m = "0.7.3"
+cortex-m-rt = "0.7.0"
+panic-rtt-target = {version="0.1.2", features = ["cortex-m"] }
+stm32f3 = {version = "0.13.2", features = ["stm32f303"]}
+rtt-target = {version= "0.3.1",  features = ["cortex-m"] }
+
+[profile.release]
+codegen-units = 1 # better optimizations
+debug = true # symbols are nice and they don't increase the size on Flash
+lto = true # better optimizations

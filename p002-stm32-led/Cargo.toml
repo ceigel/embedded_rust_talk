@@ -1,0 +1,17 @@
+[package]
+authors = ["Cristian Eigel <cristian.eigel@esrlabs.com>"]
+edition = "2018"
+readme = "README.md"
+name = "p002-stm32-led"
+version = "0.1.0"
+
+[dependencies]
+cortex-m = "0.7.3"
+cortex-m-rt = "0.7.0"
+panic-itm = "0.4.1"
+stm32f3xx-hal = {version="0.8.0", features=["stm32f303xc"]}
+
+[profile.release]
+codegen-units = 1 # better optimizations
+debug = true # symbols are nice and they don't increase the size on Flash
+lto = true # better optimizations

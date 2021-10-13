@@ -1,0 +1,11 @@
+[package]
+name = "p001_raspberry_led"
+version = "0.1.0"
+authors = ["Cristian Eigel <eigelc@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+linux-embedded-hal = "0.2.2"
+embedded-hal = "0.2.6"

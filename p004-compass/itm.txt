@@ -1,0 +1,988 @@
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: Northwest
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: Northeast
+tick
+Direction: Northeast
+tick
+Direction: Northeast
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: Southeast
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: South
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: East
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: North
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: Southwest
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+tick
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: West
+Direction: South
+Direction: South
+Direction: South
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: East
+Direction: East
+Direction: East
+Direction: South
+Direction: South
+Direction: South
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: Southwest
+Direction: South
+Direction: South
+Direction: South
+Direction: South
+Direction: South
+Direction: South
+Direction: South
+Direction: South
+Direction: South
+Direction: South
