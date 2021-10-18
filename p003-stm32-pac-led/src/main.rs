@@ -21,9 +21,9 @@ fn entrypoint() -> ! {
     rprintln!("Setup done");
     loop {
         rprintln!("blink");
-        gpioe.odr.write(|w| w.odr9().high());
-        asm::delay(1_000_000);
-        gpioe.odr.write(|w| w.odr9().low());
-        asm::delay(1_000_000);
+        gpioe.bsrr.write(|w| w.bs9().set_bit());
+        asm::delay(2_000_000);
+        gpioe.bsrr.write(|w| w.br9().set_bit());
+        asm::delay(2_000_000);
     }
 }

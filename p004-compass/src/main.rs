@@ -98,8 +98,6 @@ struct Resources {
     pub itm: ITM,
 }
 
-static RESOURCES: Mutex<RefCell<Option<Resources>>> = Mutex::new(RefCell::new(None));
-
 type Led = Switch<gpioe::PEx<Output<PushPull>>, ActiveHigh>;
 type Lsm303dlhc = lsm303dlhc::Lsm303dlhc<I2c<I2C1, (PB6<AF4>, PB7<AF4>)>>;
 
@@ -155,6 +153,8 @@ fn main() -> ! {
         asm::wfi();
     }
 }
+
+static RESOURCES: Mutex<RefCell<Option<Resources>>> = Mutex::new(RefCell::new(None));
 
 #[interrupt]
 fn TIM7() {

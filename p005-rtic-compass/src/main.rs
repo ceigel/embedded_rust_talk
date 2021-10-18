@@ -177,6 +177,7 @@ const APP: () = {
     #[task(binds = TIM7, priority = 2, resources = [timer, lsm303dlhc, leds, itm])]
     fn tim7(cx: tim7::Context) {
         let mut resources = cx.resources;
+        iprintln!(&mut resources.itm.stim[0], "TICK");
         resources.timer.clear_update_interrupt_flag();
         let I16x3 { x, y, .. } = resources.lsm303dlhc.mag().unwrap();
 
