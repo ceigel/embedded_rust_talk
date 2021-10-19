@@ -4,7 +4,7 @@ use std::thread;
 use std::time::Duration;
 
 fn main() {
-    let pin = Pin::new(25);
+    let pin = Pin::new(26);
     pin.export().expect("To export pin");
     pin.set_direction(Direction::Out).expect("To set direction");
     loop {
