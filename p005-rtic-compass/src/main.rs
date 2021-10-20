@@ -157,9 +157,7 @@ const APP: () = {
     }
     #[idle]
     fn idle(_: idle::Context) -> ! {
-        loop {
-            asm::wfi();
-        }
+        loop {}
     }
 
     #[task(resources = [itm, tick_count], schedule=[tick])]
